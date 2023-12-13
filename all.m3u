@@ -27,9 +27,15 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",TVB星河
 http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306342
 
+
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-logo="" group-title="综合",TVBS亚洲
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+
+
 #EXTINF:-1 tvg-name="ABCAUSTRALIA" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="新闻",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC Earth
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et&checkedby:iptvcat.com
+
 
