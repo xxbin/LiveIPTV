@@ -11,7 +11,7 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="音乐",CCTV-15音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_99.png" group-title="音乐",CCTV-15音乐
 http://cfss.cc/api/ysp/cctv15.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="综合",凤凰中文
@@ -20,13 +20,13 @@ http://113.117.74.52:8081/hls/37/index.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="娱乐",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="新闻",TVB News Channel
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="新闻",TVB新闻 
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合" ,珍珠台 
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",珍珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",TVB星河
 http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306342
 
-
 #EXTINF:-1 tvg-name="ABCAUSTRALIA" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="新闻",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+
