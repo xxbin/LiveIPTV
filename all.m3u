@@ -14,6 +14,8 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="13855" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-id="13855" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="综合",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="13845" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="综合",CCTV-4K
 http://cfss.cc/api/ysp/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="13846" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="運動",CCTV-5体育
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
