@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="General",Phoenix Chinese Channel (鳳凰衛視中文) (1080p)
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",Phoenix InfoNews Channel (鳳凰衛視資訊) (1080p)
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade (翡翠台)
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="News",TVB News Channel
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="General" ,TVB Pearl (珍珠台) 
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+
