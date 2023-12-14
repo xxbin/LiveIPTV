@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="综合",CCTV-1综合
 #http://cfss.cc/api/ysp/cctv1.m3u8
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="综合",CCTV-4K超高清
 #http://cfss.cc/api/ysp/cctv4k.m3u8
