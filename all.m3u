@@ -15,7 +15,8 @@ https://epg.pw/stream/f0e2e83785e7ad6df968ad3601288d34831a0ad355190f5f6fe07124b5
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png" group-title="音乐",CCTV-15音乐
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+rap://239.49.8.156:6000
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="综合",凤凰中文
 http://113.117.74.52:8081/hls/37/index.m3u8
