@@ -71,8 +71,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="" group-title="综合",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
-#EXTINF:-1 tvg-name="HBO 2" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021121049455217_51.jpg" group-title="电影",HBO 2
-https://epg.pw/stream/b8659735da53c649267dec519db2cfdc0ba327f349f5012bceb6ae3369ca139f.ctv
+#EXTINF:-1 tvg-name="MTV" tvg-id="" tvg-country="英国" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128114935333600_98.jpg" group-title="音乐",MTV HD
+https://epg.pw/stream/1cf347aae3fd1a3e6fbe07d3137843b8f09158ec4e82062b53d1746ea49d69ff.ctv
 
 #EXTINF:-1 tvg-name="MTVHITS" tvg-id="" tvg-country="英国" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128114935333600_98.jpg" group-title="音乐",MTV
 https://epg.pw/stream/27e861a43ecf6b2489ffa8e32066b56b786afe4d6b425b9a54f28df8f118dcd8.m3u8
