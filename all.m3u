@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="综合",CCTV-1综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="综合",CCTV-1综合
 http://cfss.cc/api/ysp/cctv1.m3u8
 
-#EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="综合",CCTV-4K超高清 http://cfss.cc/api/ysp/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="综合",CCTV-4K超高清
+http://cfss.cc/api/ysp/cctv4k.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="运动",CCTV-5体育
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
@@ -10,7 +11,7 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93#/media/File:CCTV-15_Logo.png" group-title="音乐",CCTV-15音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png" group-title="音乐",CCTV-15音乐
 http://cfss.cc/api/ysp/cctv15.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="综合",凤凰中文
