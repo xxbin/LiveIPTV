@@ -51,7 +51,5 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 #EXTINF:-1 tvg-name="ABCAUSTRALIA" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="新闻",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC Earth
-https://ov.ottera.tv/live/master.m3u8?channel=earth_et&checkedby:iptvcat.com
-
-
+#EXTINF:-1 tvg-name="半岛新闻" tvg-id="" tvg-logo="" group-title="新闻",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
