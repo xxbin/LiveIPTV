@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="综合",CCTV-1综合
 #http://cfss.cc/api/ysp/cctv1.m3u8
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="综合",CCTV-4K超高清
 #http://cfss.cc/api/ysp/cctv4k.m3u8
@@ -24,7 +25,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="音乐",CCTV-15音乐
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+https://epg.pw/stream/5cdf21d4ac6f90c53093fd4ba081908c988a2c33e0d6088948cb36f35295ba6b.m3u8
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="体育",CCTV-16奥林匹克
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
@@ -40,7 +42,7 @@ http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/i
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="娱乐",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",香港卫视
+#EXTINF:-1 tvg-name="HKS" tvg-id="" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-logo="" group-title="综合",TVBS亚洲
