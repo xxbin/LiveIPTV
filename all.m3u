@@ -5,14 +5,17 @@ http://cfss.cc/api/ysp/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://forumfs2.hkepc.net/month_1810/181002120045ef3ea71cb065ca.png" group-title="综合",CCTV-4K超高清
 http://cfss.cc/api/ysp/cctv4k.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="运动",CCTV-5体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="体育",CCTV-5体育
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="电影",CCTV-6电影
+https://epg.pw/stream/7ecdb23edf70606f6286894a0289434b5bfbb53dfd1e5da9bf37e50e26ec7ea4.ctv
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png" group-title="音乐",CCTV-15音乐
-http://cfss.cc/api/ysp/cctv15.m3u8
+https://epg.pw/stream/df25f03b60f5d8a1d6574d8e44974d1a266922f81912c2fecfd46361454467a2.ctv
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="综合",凤凰中文
 http://113.117.74.52:8081/hls/37/index.m3u8
