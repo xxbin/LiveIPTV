@@ -1,33 +1,33 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="综合",CCTV-1综合
 #http://cfss.cc/api/ysp/cctv1.m3u8
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="综合",CCTV-4K超高清
 #http://cfss.cc/api/ysp/cctv4k.m3u8
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="体育",CCTV-5体育赛事
 #https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="电影",CCTV-6电影
 #https://epg.pw/stream/f0e2e83785e7ad6df968ad3601288d34831a0ad355190f5f6fe07124b541ef28.ctv
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="记录",CCTV-9记录
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="音乐",CCTV-15音乐
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="体育",CCTV-16奥林匹克
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-http://180.97.247.28:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="综合",凤凰中文
 http://113.117.74.52:8081/hls/37/index.m3u8
