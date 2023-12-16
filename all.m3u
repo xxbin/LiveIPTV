@@ -69,7 +69,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
 https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
 
- #EXTINF:-1 tvg-name="民視新聞FHD" tvg-id="14273" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152642928625_41.png" group-title="新聞",     [SD]民视新闻HD
+ #EXTINF:-1 tvg-name="民視新聞FHD" tvg-id="14273" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152642928625_41.png" group-title="新聞", 民视新闻HD
 5533 https://epg.pw/stream/0a9b2611d6fd15d90be0ec3144d0b783dd45a65ac7a15d2e85dd93860170b1af.m3u8
 
 #EXTINF:-1 tvg-name="东森美洲" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://zh.wikipedia.org/zh-cn/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:EBC_News_logo_20150706.jpg" group-title="综合",东森美洲
