@@ -72,12 +72,9 @@ https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4c
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="新闻",ABC News
 https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
 
-#EXTINF:-1 tvg-name="半岛英语" tvg-id="" tvg-logo="" group-title="新闻",半岛新闻
+#EXTINF:-1 tvg-name="半岛英语" tvg-id="" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/c34a2dd2963a8775f25395603c5ce758.jpg" group-title="新闻",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="" group-title="综合",NHK世界
+#EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="综合",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-
-#EXTINF:-1 tvg-name="MTV" tvg-id="" tvg-country="英国" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128114935333600_98.jpg" group-title="音乐",MTV HD
-https://epg.pw/stream/1cf347aae3fd1a3e6fbe07d3137843b8f09158ec4e82062b53d1746ea49d69ff.ctv
 
