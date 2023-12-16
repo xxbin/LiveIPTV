@@ -53,7 +53,7 @@ https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576f
 #EXTINF:-1 tvg-name="凤凰中文" tvg-id="" tvg-logo="https://i.imgur.com/aUM0Oqy.png" group-title="综合",凤凰中文
 http://113.117.74.52:8081/hls/37/index.m3u8
 
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="" tvg-logo="https://zh.wikipedia.org/zh-cn/%E9%B3%B3%E5%87%B0%E8%A1%9B%E8%A6%96%E8%B3%87%E8%A8%8A%E5%8F%B0#/media/File:Phoenix_InfoNews.svg" group-title="新闻",凤凰资讯
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="娱乐",翡翠台
@@ -66,15 +66,16 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
 https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
 
-#EXTINF:-1 tvg-name="东森美洲" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg" group-title="综合",东森美洲
+#EXTINF:-1 tvg-name="东森美洲" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://zh.wikipedia.org/zh-cn/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:EBC_News_logo_20150706.jpg" group-title="综合",东森美洲
 https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 
-#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="新闻",ABC News
-https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/2044px-American_Broadcasting_Company_Logo.svg.png" group-title="新闻",ABC News
+#https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
+https://epg.pw/stream/4ccd6a2d890a9bd46004747a1634b9493666a3b057270d400f715c6a656a00a0.m3u8
 
-#EXTINF:-1 tvg-name="半岛英语" tvg-id="" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/c34a2dd2963a8775f25395603c5ce758.jpg" group-title="新闻",半岛新闻
+#EXTINF:-1 tvg-name="半岛英语" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="新闻",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="综合",NHK世界
+#EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="综合",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
