@@ -99,7 +99,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/32212
 #http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="娱乐",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="综合",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="综合",香港卫视
