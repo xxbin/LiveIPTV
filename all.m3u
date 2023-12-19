@@ -75,6 +75,9 @@ https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d4
 #https://epg.pw/stream/50301782798540ee9cc384d84d50f806a8a990cd796f99c87e979d18514f31dd.ctv
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="综合",东方卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
+
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="综合",江苏卫视
 #https://epg.pw/stream/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
