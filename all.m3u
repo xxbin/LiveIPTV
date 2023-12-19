@@ -49,9 +49,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/32212
 #https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 
-#EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="综合",CGTN
-https://epg.pw/stream/afbadd815a4b9fa96caf6cfb1063ccc755a33854f0aa6546ec23739fe622a969.m3u8
-
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影",CHC家庭影院
@@ -59,14 +56,14 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="电影",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="综艺",NewTV超级综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV超级体育" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育",NewTV超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV超级电影" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影",NewTV超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV超级电视剧" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="综合",NewTV超级电视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+##EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="综艺",NewTV超级综艺
+#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
+##EXTINF:-1 tvg-name="NEWTV超级体育" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育",NewTV超级体育
+#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+##EXTINF:-1 tvg-name="NEWTV超级电影" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影",NewTV超级电影
+#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+##EXTINF:-1 tvg-name="NEWTV超级电视剧" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="综合",NewTV超级电视剧
+#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 
 #EXTINF:-1 tvg-name="纯享4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="电影",纯享4K
 https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8
@@ -108,26 +105,31 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="综合",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-##EXTINF:-1 tvg-name="TVBS新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/TBVS新闻台.png" group-title="新闻",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/TBVS新闻台.png" group-title="新闻",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 ##EXTINF:-1 tvg-name="台视新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="新闻",台视新闻
 #https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
 #https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
 
-# #EXTINF:-1 tvg-name="民視新聞FHD" tvg-id="14273" tvg-country="台灣" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="新聞", 民视新闻HD
+#EXTINF:-1 tvg-name="民視新聞FHD" tvg-id="14273" tvg-country="台灣" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="新聞", 民视新闻HD
 #5533 https://epg.pw/stream/0a9b2611d6fd15d90be0ec3144d0b783dd45a65ac7a15d2e85dd93860170b1af.m3u8
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="综合",CGTN
+https://epg.pw/stream/afbadd815a4b9fa96caf6cfb1063ccc755a33854f0aa6546ec23739fe622a969.m3u8
+
+#EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="综合",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 tvg-name="半岛新闻" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="新闻",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-name="FOXNEWS" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/FOXHD.png" group-title="新闻",Fox新闻
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABCAUSTRALIA" tvg-id="" tvg-country="美国" tvg-language="英文" tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="新闻",ABC News
 #https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
 https://epg.pw/stream/4ccd6a2d890a9bd46004747a1634b9493666a3b057270d400f715c6a656a00a0.m3u8
 
-#EXTINF:-1 tvg-name="半岛新闻" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="新闻",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-name="NHKWorld" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="综合",NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-
-#EXTINF:-1 tvg-name="FOXNEWS" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/FOXHD.png" group-title="新闻",Fox新闻
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
