@@ -105,7 +105,7 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="综合",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/TBVS新闻台.png" group-title="新闻",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/TBVS新闻.png" group-title="新闻",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 ##EXTINF:-1 tvg-name="台视新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="新闻",台视新闻
