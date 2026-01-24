@@ -4,20 +4,31 @@
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
+#http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
+http://112.46.105.20:8009/hls/501/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="综合",CCTV-2财经
+http://112.46.105.20:8009/hls/502/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="综合",CCTV-3
+http://112.46.105.20:8009/hls/503/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="综合",CCTV-4
+http://112.46.105.20:8009/hls/504/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="综合",CCTV-4K超高清
 #http://cfss.cc/api/ysp/cctv4k.m3u8
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 #https://epg.pw/stream/880cf2911be2cb89b60ce088e1727d834425895cf417ae5987247c2bd10659e7.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1769295600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f4378e4fb7e4523b67bc66bdd0e0b931&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41
+#https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1769295600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f4378e4fb7e4523b67bc66bdd0e0b931&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育",CCTV-5体育赛事
 #https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #https://epg.pw/stream/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228176/index.m3u8
+#http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228176/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="" tvg-country="中国" tvg-language="普通话" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="电影",CCTV-6电影
 #https://epg.pw/stream/f0e2e83785e7ad6df968ad3601288d34831a0ad355190f5f6fe07124b541ef28.ctv
